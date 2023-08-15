@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<config>
+	<pft>
+		<num>2</num>
+		<rho>0.5</rho>
+		<b1Ht>1.589</b1Ht>
+		<b2Ht>0.459</b2Ht>
+		<phenology>6</phenology>
+		<st_fract>0.0</st_fract>
+		<storage_turnover_rate>0.0</storage_turnover_rate>
+		<r_cv50>1.0</r_cv50>
+		<repro_min_h>25.0</repro_min_h>
+		<leaf_turnover_rate>1.5</leaf_turnover_rate>
+		<high_psi_threshold>14</high_psi_threshold>
+		<low_psi_threshold>7</low_psi_threshold>
+		<b1Rd>-0.609</b1Rd>
+	</pft>
+	<pft>
+		<num>4</num>
+		<rho>0.75</rho>
+		<b1Ht>1.57</b1Ht>
+		<b2Ht>0.442</b2Ht>
+		<phenology>6</phenology>
+		<st_fract>0.0</st_fract>
+		<storage_turnover_rate>0.0</storage_turnover_rate>
+		<r_cv50>1.0</r_cv50>
+		<repro_min_h>25.0</repro_min_h>
+		<leaf_turnover_rate>0.5</leaf_turnover_rate>
+		<high_psi_threshold>14</high_psi_threshold>
+		<low_psi_threshold>7</low_psi_threshold>
+		<b1Rd>-0.609</b1Rd>
+	</pft>
+</config>
